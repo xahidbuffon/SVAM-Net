@@ -26,6 +26,7 @@
 - A new challenging test set for benchmark evaluation of underwater SOD models
 - Contains 300 natural underwater images and ground truth labels
 - Can be downloaded from: http://irvlab.cs.umn.edu/resources/usod-dataset
+- Evaluation code: https://github.com/xahidbuffon/SOD-Evaluation-Tool-Python
 - Evaluation data can be found in [this Google-Drive link](https://drive.google.com/drive/folders/1htvW1HOdgrqtPvp9t6fW-5o_RoG6OtjC?usp=sharing)
 
 #### Bibliography entry:
@@ -38,3 +39,12 @@
 	    year={2020}
 	}
 
+### Acknowledgements
+- https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection
+- https://github.com/Ugness/PiCANet-Implementation
+- https://github.com/wenguanwang/SODsurvey
+- https://github.com/wenguanwang/PAGE-Net
+- https://github.com/backseason/PoolNet
+- https://github.com/wenguanwang/ASNet
+- https://github.com/NathanUA/BASNet
+- https://github.com/wuzhe71/CPD
