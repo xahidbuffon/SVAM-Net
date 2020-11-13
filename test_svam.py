@@ -1,6 +1,6 @@
 """
-# > Script for evaluating ** 
-#    - Paper: 
+# > Script for evaluating SVAM-Net 
+#    - Paper: https://arxiv.org/pdf/2011.06252.pdf 
 """
 import os
 import cv2

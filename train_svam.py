@@ -1,6 +1,6 @@
 """
 # > Training script for SVAM-Net 
-#    - Paper: ***
+#    - Paper: https://arxiv.org/pdf/2011.06252.pdf 
 """
 import os
 import yaml

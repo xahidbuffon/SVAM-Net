@@ -1,6 +1,6 @@
 """
-# > Pre-training script for the VGG backbone encoder-decoder 
-#    - Paper: ***
+# > Pre-training script for the VGG16 encoder-decoder backbone (of SVAM-Net) 
+#    - Paper: https://arxiv.org/pdf/2011.06252.pdf 
 """
 from __future__ import print_function, division
 import os

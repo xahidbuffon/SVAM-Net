@@ -1,6 +1,6 @@
 """
-# > Script for evaluating ** 
-#    - Paper: 
+# > Script for evaluating VGG16 encoder-decoder backbone (of SVAM-Net) 
+#    - Paper: https://arxiv.org/pdf/2011.06252.pdf 
 """
 import os
 import time
