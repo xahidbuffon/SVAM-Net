@@ -13,6 +13,7 @@
 - Exploits coarse-level and fine-level semantic features for SOD at four stages of abstractions
 - The bottom-up pipeline (SVAM-Net_Light) performs abstract saliency prediction at fast rates
 - The top-down pipeline ensures fine-grained saliency estimation by aresidual refinement module (RRM)
+- Pretrained weights can be downloaded from [this Google-Drive link](https://drive.google.com/drive/folders/1htvW1HOdgrqtPvp9t6fW-5o_RoG6OtjC?usp=sharing)
 
 ### SVAM-Net Features
 - Provides SOTA performance for SOD on underwater imagery 
@@ -25,6 +26,7 @@
 - A new challenging test set for benchmark evaluation of underwater SOD models
 - Contains 300 natural underwater images and ground truth labels
 - Can be downloaded from: http://irvlab.cs.umn.edu/resources/usod-dataset
+- Evaluation data can be found in [this Google-Drive link](https://drive.google.com/drive/folders/1htvW1HOdgrqtPvp9t6fW-5o_RoG6OtjC?usp=sharing)
 
 #### Bibliography entry:
 	
