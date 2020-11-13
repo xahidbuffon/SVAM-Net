@@ -1,0 +1,16 @@
+
+# dataset info
+dataset_name: "COMBINED" 
+dataset_path: "/mnt/data1/ImageSOD/train_pairs.txt"
+
+# image info
+channels: 3
+im_width: 256
+im_height: 256
+
+# training params
+batch_size: 2
+num_epochs: 50
+val_interval: 2000 # steps
+ckpt_interval: 5  # epochs
+
