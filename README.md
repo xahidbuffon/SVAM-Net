@@ -1,4 +1,4 @@
-### SVAM: Saliency-guided Visual Attention Modeling 
+### SVAM: Saliency-guided Visual Attention Modeling (To Appear at RSS 2022)
 ![svam-fig](/data/svam_fig0.jpg)
 
 ### Pointers
@@ -31,13 +31,14 @@
 
 #### Bibliography entry:
 	
-	@article{islam2020svam,
-	    title={{SVAM: Saliency-guided Visual Attention Modeling 
+	@inproceedings{islam2020sesr,
+    author={Islam, Md Jahidul and Wang, Ruobing and Sattar, Junaed},
+    title={{SVAM: Saliency-guided Visual Attention Modeling 
 	    	    by Autonomous Underwater Robots}},
-	    author={Islam, Md Jahidul and Wang, Ruobing and de Langis, Karin and Sattar, Junaed},
-	    journal={arXiv preprint arXiv:2011.06252},
-	    year={2020}
-	}
+    booktitle={To Appear at the Robotics: Science and Systems (RSS)},
+    year={2022},
+    address={NY, USA}
+}
 
 ### Acknowledgements
 - https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection
