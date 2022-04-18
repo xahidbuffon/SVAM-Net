@@ -38,7 +38,7 @@
     booktitle={To Appear at the Robotics: Science and Systems (RSS)},
     year={2022},
     address={NY, USA}
-}
+	}
 
 ### Acknowledgements
 - https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection
