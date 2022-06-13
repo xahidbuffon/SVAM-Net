@@ -2,6 +2,7 @@
 ![svam-fig](/data/svam_fig0.jpg)
 
 ### Pointers
+- Paper: http://www.roboticsproceedings.org/rss18/p048.pdf
 - Preprint: https://arxiv.org/pdf/2011.06252.pdf
 - Video demonstration: https://youtu.be/SxJcsoQw7KI
 - Data: http://irvlab.cs.umn.edu/resources/usod-dataset
@@ -31,11 +32,11 @@
 
 #### Bibliography entry:
 	
-	@inproceedings{islam2020sesr,
+	@inproceedings{islam2022svam,
     author={Islam, Md Jahidul and Wang, Ruobing and Sattar, Junaed},
     title={{SVAM: Saliency-guided Visual Attention Modeling 
 	    	    by Autonomous Underwater Robots}},
-    booktitle={To Appear at the Robotics: Science and Systems (RSS)},
+    booktitle={Robotics: Science and Systems (RSS)},
     year={2022},
     address={NY, USA}
 	}
